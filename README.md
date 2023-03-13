@@ -8,7 +8,7 @@ This repository contains an implementation of the classic game Snake, which is p
 
 1. Clone the repository.
 ```
-git clone https://github.com/Prem07a/AI_Snake.git
+git clone https://github.com/Prem07a/AI_Snake
 ```
 2. Install the required packages:
 ```
